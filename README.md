@@ -1,4 +1,5 @@
 # amy2
+# sub:https://ormroh.xyz/?L1N1YnNjcmlwdGlvbi9TaGFkb3dSb2NrZXRJbXBvcnRTZXJ2aWNlP3Q9c2lwMDAyJnNpZD00NjE1MiZ0b2tlbj1uQzdubkY5aU5GTSZtbT01NjIzOCZiYjYyOTg0OTFmNzI0YWZhYTE4YTk3NjhkNGExYTc=
 port: 7890
 socks-port: 7891
 allow-lan: true
